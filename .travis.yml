@@ -7,9 +7,6 @@ services:
 before_install:
   - docker build -t sz3jdii/lab8 -f Dockerfile .
 
-script:
-  - docker run -e CI=true sz3jdii/lab8 npm run test
-
 
 deploy:
   provider: elasticbeanstalk
