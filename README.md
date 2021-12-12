@@ -7,6 +7,7 @@
 5) Utworzenie konta na AWS EBS i stworzenie aplikacji
 6) Utworzenie konta na Travis CI, podanie secretów do aplikacji EBS
 7) Uruchomienie triggera na Travis
+
 Link do aplikacji: http://pfswcholab8-env.eba-pjzmtfss.us-east-2.elasticbeanstalk.com/
 
 ## Steps to work with the app locally (Docker):
